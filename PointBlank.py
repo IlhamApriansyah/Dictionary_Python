@@ -1,4 +1,4 @@
-import random as rd
+from operator import index
 
 def Weapon():
 
@@ -18,5 +18,7 @@ def Character():
     
 
 print("Data yang masih tersisa adalah : ")
-Weapon()
-Character()
+
+if __name__ == "__main__":
+    Weapon()
+    Character()

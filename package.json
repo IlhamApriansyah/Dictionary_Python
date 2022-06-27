@@ -1,10 +1,10 @@
 {
   "name": "dictionary",
-  "version": "0.10",
+  "version": "1.0.0",
   "description": "List Dictionary menggunakan Python",
   "main": "index.js",
   "scripts": {
-    "dev" : "python3 PointBlank.py"
+    "dev": "python3 PointBlank.py"
   },
   "author": "",
   "license": "ISC"
