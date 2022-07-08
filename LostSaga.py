@@ -9,8 +9,11 @@ def Normal():
 def Premium():
     list = {"BlazeBlue" : "Jin Kisaragi" , "GOD" : "Jin mori"}
 
+
+    
     print(list)
 
+print("Data yang ditampilkan adalah :")
 
 Normal()
 Premium()
