@@ -14,8 +14,8 @@ def Normal():
         "Upgrade-able" : "Att"
     }
 
-    print("Kata kunci : " + Contest.keys() + Content.keys())
-    print("Data nya : " + Contest.values() + Content.values())
+    print("Data yang dipanggil adalah hero :" + Content["Name"])
+    print("Lebih cocok di-upgrade ke :" + Content["Upgrade-able"])
 
 def Premium():
     Blazeblue = {
@@ -24,8 +24,8 @@ def Premium():
                 "Upgrade-able":"Att"
                 }
 
-    print("kata kunci : " + Blazeblue.keys())
-    print("Data nya : " + Blazeblue.values())
+    print("Data yang dipanggil adalah hero : " + Blazeblue["Name"])
+    print("Lebih cocok di-upgrade ke : " + Blazeblue["Upgrade-able"])
 
 Normal()
 Premium()
