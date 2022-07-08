@@ -1,6 +1,6 @@
-## Manipulasi Dictionary Python
+##Dictionary Python
 
-Manipulasi data yang dilakukan pada Dictionary
+Sebuah dictionary yang mengambil data pada beberapa game
 
 cara pemasangan : 
 > install NPM 

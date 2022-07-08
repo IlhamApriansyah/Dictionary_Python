@@ -1,7 +1,7 @@
 {
   "name": "dictionary",
   "version": "1.0.0",
-  "description": "List Dictionary menggunakan Python",
+  "description": "Dictionary menggunakan Python",
   "main": "index.js",
   "scripts": {
     "dev": "python3 PointBlank.py LostSaga.py"
